@@ -3,24 +3,52 @@
     <title>Likha Studios Blog</title>
     <link href="https://blog.getlikha.com/feed.xml" rel="self" />
     <link href="https://blog.getlikha.com" />
-    <updated>2023-04-07T18:01:20-03:00</updated>
+    <updated>2023-04-07T18:41:38-03:00</updated>
     <author>
-        <name>Gab</name>
+        <name>Aria Inkwell</name>
     </author>
     <id>https://blog.getlikha.com</id>
 
     <entry>
+        <title>Likha Studios Notebook - 1</title>
+        <author>
+            <name>Aria Inkwell</name>
+        </author>
+        <link href="https://blog.getlikha.com/likha-studios-notebook-1.html"/>
+        <id>https://blog.getlikha.com/likha-studios-notebook-1.html</id>
+            <category term="Likha Studios Notebook"/>
+
+        <updated>2023-04-07T18:30:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                    We are currently actively developing our website. Our team is actively exploring multiple tools to ensure our future clients will have the best service possible. While reading Rich Dad, Poor Dad, we found we need to create a viable, unique, and efficient system that differentiates us&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are currently actively developing our website. Our team is actively exploring multiple tools to ensure our future clients will have the best service possible. While reading <strong>Rich Dad, Poor Dad</strong>, we found we need to create a viable, unique, and efficient system that differentiates us from our competition. Unlike major Do-It-Yourself drag and drop builders like Wix, GoDaddy, Shopify, we are focused on doing the work for our clients. But we need to create a unique system for our business that brings the best quality at the quickest time.</p>
+<p>We are diving into possibly integrating AI. Unlike other services, they only have AI-powered <em>templates</em>, while we are eyeing on possibly using AI to make our website building faster. We utilize AI's such as the popular ChatGPT, but imagine if you can simply type a prompt like:</p>
+<p><em>"I want a website about my restaurant. My themes are Red, Green and Blue. It's named Bob's Chicken. There will also be a menu for the website. Make it simple and visually appealing."</em></p>
+<p>The AI will now begin to generate lines of HTML, CSS, and JavaScript. It'll then be sent to our team for review and see what changes or <em>hopefully not</em>, errors it might've made. The possibilities are endless!</p>
+<p>But for now we are currently researching on what efficient and powerful website builders we can use for our clients. We are also looking for marketing techniques that we can use for social media, minimizing costs and promoting affordability. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The Double-Edged Sword of AI: Why AI like ChatGPT Can Be Dangerous</title>
         <author>
-            <name>Gab</name>
+            <name>Aria Inkwell</name>
         </author>
         <link href="https://blog.getlikha.com/the-double-edged-sword-of-ai-why-ai-like-chatgpt-can-be-dangerous.html"/>
         <id>https://blog.getlikha.com/the-double-edged-sword-of-ai-why-ai-like-chatgpt-can-be-dangerous.html</id>
+        <media:content url="https://blog.getlikha.com/media/posts/5/EvilAI.png" medium="image" />
             <category term="AI Insights &amp; Innovations"/>
 
-        <updated>2023-04-07T18:01:20-03:00</updated>
+        <updated>2023-04-07T18:41:38-03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.getlikha.com/media/posts/5/EvilAI.png" alt="Evil AI Chatbots with double-edged sword" />
                     <p>Artificial intelligence (AI) has rapidly evolved over the past few years, transforming various aspects of our lives. From chatbots that provide customer service to AI-powered recommendation systems that personalize our online experiences, these technologies have become increasingly prevalent. One prominent example of AI is ChatGPT, a large language model developed by OpenAI that can generate human-like text responses. While AI like ChatGPT has the potential to revolutionize industries and improve our lives, it also poses risks and ethical concerns. In this blog, we'll explore the double-edged sword of AI, delving into the potential dangers of AI like ChatGPT and why it's essential to approach these technologies with caution.</p>
 <p>The Power of AI: Its Benefits and Potential</p>
 <p>There's no denying the incredible potential of AI. These technologies have the capacity to process vast amounts of data, make predictions, and automate tasks with precision and efficiency. AI-powered systems have been employed in various fields, such as healthcare, finance, transportation, and communication, with promising results. For instance, in healthcare, AI has been used for early disease detection, drug discovery, and personalized treatment plans. In the financial sector, AI has improved fraud detection, risk assessment, and investment strategies. AI has also transformed the way we communicate and interact with technology, with virtual assistants like ChatGPT providing convenient and personalized responses to user queries.</p>
@@ -29,6 +57,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.getlikha.com/media/posts/5/EvilAI.png" class="type:primaryImage" alt="Evil AI Chatbots with double-edged sword" /></p>
                 <p>Artificial intelligence (AI) has rapidly evolved over the past few years, transforming various aspects of our lives. From chatbots that provide customer service to AI-powered recommendation systems that personalize our online experiences, these technologies have become increasingly prevalent. One prominent example of AI is ChatGPT, a large language model developed by OpenAI that can generate human-like text responses. While AI like ChatGPT has the potential to revolutionize industries and improve our lives, it also poses risks and ethical concerns. In this blog, we'll explore the double-edged sword of AI, delving into the potential dangers of AI like ChatGPT and why it's essential to approach these technologies with caution.</p>
 <p>The Power of AI: Its Benefits and Potential</p>
 <p>There's no denying the incredible potential of AI. These technologies have the capacity to process vast amounts of data, make predictions, and automate tasks with precision and efficiency. AI-powered systems have been employed in various fields, such as healthcare, finance, transportation, and communication, with promising results. For instance, in healthcare, AI has been used for early disease detection, drug discovery, and personalized treatment plans. In the financial sector, AI has improved fraud detection, risk assessment, and investment strategies. AI has also transformed the way we communicate and interact with technology, with virtual assistants like ChatGPT providing convenient and personalized responses to user queries.</p>
@@ -94,7 +123,7 @@
     <entry>
         <title>The Ultimate Guide to Social Media Marketing for Businesses: How to Increase Brand Awareness and Drive Website Traffic</title>
         <author>
-            <name>Gab</name>
+            <name>Aria Inkwell</name>
         </author>
         <link href="https://blog.getlikha.com/the-ultimate-guide-to-social-media-marketing-for-businesses-how-to-increase-brand-awareness-and-drive-website-traffic.html"/>
         <id>https://blog.getlikha.com/the-ultimate-guide-to-social-media-marketing-for-businesses-how-to-increase-brand-awareness-and-drive-website-traffic.html</id>
@@ -144,7 +173,7 @@
     <entry>
         <title>How ChatGPT powers the web</title>
         <author>
-            <name>Gab</name>
+            <name>Aria Inkwell</name>
         </author>
         <link href="https://blog.getlikha.com/how-chatgpt-powers-the-web.html"/>
         <id>https://blog.getlikha.com/how-chatgpt-powers-the-web.html</id>
@@ -168,7 +197,7 @@
     <entry>
         <title>7 Proven Ways to Keep Your Website Safe from Hackers</title>
         <author>
-            <name>Gab</name>
+            <name>Aria Inkwell</name>
         </author>
         <link href="https://blog.getlikha.com/7-proven-ways-to-keep-your-website-safe-from-hackers.html"/>
         <id>https://blog.getlikha.com/7-proven-ways-to-keep-your-website-safe-from-hackers.html</id>
@@ -205,7 +234,7 @@
     <entry>
         <title>Top 6 Open-Sourced Completely Free Website Builders for Creating Professional Websites Without Spending a Penny</title>
         <author>
-            <name>Gab</name>
+            <name>Aria Inkwell</name>
         </author>
         <link href="https://blog.getlikha.com/top-6-open-sourced-completely-free-website-builders-for-creating-professional-websites-without-spending-a-penny.html"/>
         <id>https://blog.getlikha.com/top-6-open-sourced-completely-free-website-builders-for-creating-professional-websites-without-spending-a-penny.html</id>
