@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.getlikha.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://blog.getlikha.com/</loc>
+</url>
+<url>
+<loc>https://blog.getlikha.com/7-proven-ways-to-keep-your-website-safe-from-hackers.html</loc>
+<lastmod>2023-03-26T21:24:59-03:00</lastmod>
+<image:image>
+<image:loc>https://blog.getlikha.com/media/posts/1/w1QfciNk_4x.jpg</image:loc>
+<image:title><![CDATA[A picture of a laptop with websites open]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.getlikha.com/how-chatgpt-powers-the-web.html</loc>
+<lastmod>2023-03-26T21:26:35-03:00</lastmod>
+<image:image>
+<image:loc>https://blog.getlikha.com/media/posts/2/or9GVyeE_4x.jpg</image:loc>
+<image:title><![CDATA[A dramatic shot of a robot]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.getlikha.com/the-ultimate-guide-to-social-media-marketing-for-businesses-how-to-increase-brand-awareness-and-drive-website-traffic.html</loc>
+<lastmod>2023-03-26T21:28:55-03:00</lastmod>
+<image:image>
+<image:loc>https://blog.getlikha.com/media/posts/3/gQDr6syx_4x.jpg</image:loc>
+<image:title><![CDATA[A picture of a hand holding a chalk drawing a social media icon]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.getlikha.com/top-6-open-sourced-completely-free-website-builders-for-creating-professional-websites-without-spending-a-penny.html</loc>
+<lastmod>2023-03-26T21:47:31-03:00</lastmod>
+<image:image>
+<image:loc>https://blog.getlikha.com/media/posts/4/SYXr8U36_4x.jpg</image:loc>
+<image:title><![CDATA[A picture of a website builder]]></image:title>
+</image:image>
+</url>
+</urlset>
