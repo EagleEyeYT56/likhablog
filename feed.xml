@@ -3,12 +3,63 @@
     <title>Likha Studios Blog</title>
     <link href="https://blog.getlikha.com/feed.xml" rel="self" />
     <link href="https://blog.getlikha.com" />
-    <updated>2023-04-10T15:07:04-03:00</updated>
+    <updated>2023-04-30T15:04:25-03:00</updated>
     <author>
         <name>Aria Inkwell</name>
     </author>
     <id>https://blog.getlikha.com</id>
 
+    <entry>
+        <title>Why Your Small Business Needs a Website and Social Media Presence</title>
+        <author>
+            <name>Aria Inkwell</name>
+        </author>
+        <link href="https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/"/>
+        <id>https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/</id>
+
+        <updated>2023-04-30T15:04:25-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Did you know that one in four small businesses in New Brunswick still don't have a website or social media presence? This means they are missing out on a huge opportunity to reach potential customers, increase their sales, and grow their brand awareness. In this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Did you know that one in four small businesses in New Brunswick still don't have a website or social media presence? This means they are missing out on a huge opportunity to reach potential customers, increase their sales, and grow their brand awareness. In this blog post, we will show you some statistics and benefits of having a website and social media for your business, and how you can get started with Likha Studios.</p>
+<p> </p>
+<p>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+		google.charts.load("current", {
+			packages: ["corechart"]
+		});
+		google.charts.setOnLoadCallback(drawChart);
+
+		function drawChart() {
+			var data = google.visualization.arrayToDataTable([
+				['Businesses', 'Percentage'],
+				['Strong Digital Presence', 77],
+				['Good Website and Social Media Presence', 7],
+				['Social Media Only', 10],
+				['Website that could be improved', 5],
+				['Website Only', 1]
+			]);
+
+			var options = {
+				title: 'Digital Presence Statistics',
+				is3D: true,
+			};
+
+			var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+			chart.draw(data, options);
+		}
+	</script>
+</p>
+<div id="piechart_3d" style="width: 900px; height: 500px;"></div>
+<p><br>According to a survey by Digital.com, 23% of small businesses with bricks and mortar stores said they don't have a website. The most common reasons for not having a website were that they never needed one, that their customers don't go online, or that they rely on social media for their online needs. However, these excuses are not valid in the 21st century, where e-commerce has been increasing year-over-year for decades. Online shopping is more convenient than in-store shopping, and people are accustomed to researching businesses and services on the internet. Without a website, you are losing out on a large segment of the market that may never find you or trust you.<br><br>Similarly, social media is not enough to build a sustainable brand online. While social media can help you connect with your existing customers and reach new ones, it is not a substitute for having your own website. Social media platforms are constantly changing their algorithms, policies, and features, which means you have little control over how your content is displayed and who sees it. Moreover, social media does not work as a powerful tool for generating traffic to your website. In fact, according to Content Powered, only 6% of the traffic that businesses receive comes from social media. On the other hand, Google searches account for about 49% of the traffic. This means that having a website with quality content that ranks well on search engines is the best way to get more exposure and leads for your business.<br><br>So, what are the benefits of having a website and social media for your business? Here are some of them:<br><br>- You can showcase your products or services in a professional and attractive way, with photos, videos, testimonials, and more.<br>- You can provide useful information to your customers, such as your location, hours, contact details, FAQs, etc.<br>- You can build trust and credibility with your customers by displaying your credentials, awards, reviews, etc.<br>- You can increase your sales by offering online ordering, booking, payment, etc.<br>- You can collect customer data and feedback through forms, surveys, newsletters, etc.<br>- You can create a loyal fan base by engaging with your customers through blogs, comments, social media posts, etc.<br>- You can expand your reach by attracting new customers from different locations, demographics, interests, etc.<br>- You can stand out from your competitors by having a unique and memorable online identity.<br><br>As you can see, having a website and social media for your business is not optional anymore. It is essential for your success and growth. However, we understand that creating and managing a website and social media can be challenging and time-consuming for busy entrepreneurs. That's why we recommend Likha Studios as the best solution for your online needs.<br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Likha Studios Gets Social! Follow Us on Facebook and Instagram</title>
         <author>
