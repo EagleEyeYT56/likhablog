@@ -3,12 +3,45 @@
     <title>Likha Studios Blog</title>
     <link href="https://blog.getlikha.com/feed.xml" rel="self" />
     <link href="https://blog.getlikha.com" />
-    <updated>2023-05-02T11:26:34-03:00</updated>
+    <updated>2023-05-02T12:31:18-03:00</updated>
     <author>
         <name>Aria Inkwell</name>
     </author>
     <id>https://blog.getlikha.com</id>
 
+    <entry>
+        <title>Our Blog Has Better SEO Than Our Actual Site, and Here&#x27;s Why</title>
+        <author>
+            <name>Aria Inkwell</name>
+        </author>
+        <link href="https://blog.getlikha.com/our-blog-has-better-seo-than-our-actual-site-and-heres-why/"/>
+        <id>https://blog.getlikha.com/our-blog-has-better-seo-than-our-actual-site-and-heres-why/</id>
+            <category term="Likha Studios Notebook"/>
+
+        <updated>2023-05-02T12:31:18-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Search Engine Optimization or SEO, is a very important aspect when it comes to website. SEO's allows sites to gain more visibility and convert viewers to potential customers. It's a great way to be known in today's digital world. While helping optimize Likha Studios' websites,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Search Engine Optimization or SEO, is a very important aspect when it comes to website. SEO's allows sites to gain more visibility and convert viewers to potential customers. It's a great way to be known in today's digital world.</p>
+<p>While helping optimize Likha Studios' websites, both their main page and blog page, I've noticed something intriguing. Likha Studios' Blog has more visibility than their main site.</p>
+<p>I sat their and wondered why that is, and started digging through. What I found is a great insight you can use too.</p>
+<h4>1. Content is King 👑</h4>
+<p>Our Blog is primarily focused on providing a wide range of content, from AI, Tech News and Website and Social Media related insights. Because content is fresh and valuable and created regularly, their Blog climbs the Search Engine Ladder higher.</p>
+<h4>2. Backlinks are used <em>a lot 🔗</em></h4>
+<p>When posting about our Blog on Social Media, we include the link to the article we're posting about. When we do, it creates a backlink to our site. Backlinks are simply links from one website to another. One of the ways popular Search Engines such as Google, Bing and Yahoo find or "index" sites is by checking if they are backlinked. Backlinks show credibility and popularity, which is why common Search Engines utilize it.</p>
+<h4>3. Keywords are really important ⌨️</h4>
+<p>Keywords are heavily used in blog sites and blog writers today. Keywords are a great way to attract potential readers. When looking for a certain topic, readers use keywords related to their topic, and through SEO keyword researching, our Blog is optimized to include that.</p>
+<h4>4. Maintained more 🛠️</h4>
+<p>To be ahead of popular keywords and SEO industry standards, we maintain the Likha Studio Blog more. We regularly change keywords to give our Blog more visibility. In the future, our Blog will have the capabilities to update on it's own with Google's API.</p>
+<p>There may be more variables unaccounted for that may affect why our Blog as better SEO visibility than our actual main site, but the reasons we've covered are the primary reasons why. In the next page of Likha's Notebook, we've experimented on this Blog how adding a Meta Description affected the visibility and views of our Blog. Stay tuned for more!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What is SEO and How Do You Use It?</title>
         <author>
@@ -19,7 +52,7 @@
         <media:content url="https://blog.getlikha.com/media/posts/13/SEO.png" medium="image" />
             <category term="Website Tips, Tricks, and News"/>
 
-        <updated>2023-05-02T11:26:34-03:00</updated>
+        <updated>2023-05-02T11:58:09-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.getlikha.com/media/posts/13/SEO.png" alt="" />
@@ -34,7 +67,7 @@
         </content>
     </entry>
     <entry>
-        <title>Why Do You Need to Use SEO&#x27;s?</title>
+        <title>Why Do You Need to Use SEOs?</title>
         <author>
             <name>Aria Inkwell</name>
         </author>
@@ -42,7 +75,7 @@
         <id>https://blog.getlikha.com/why-do-you-need-to-use-seos/</id>
             <category term="Website Tips, Tricks, and News"/>
 
-        <updated>2023-05-02T11:24:17-03:00</updated>
+        <updated>2023-05-02T11:56:24-03:00</updated>
             <summary>
                 <![CDATA[
                     Search engine optimization (SEO) is the process of improving the visibility and relevance of a website or a web page in the organic results of a search engine. SEO helps you reach your target audience, drive more traffic to your site, and increase your conversions.
@@ -95,7 +128,7 @@
         <id>https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/</id>
             <category term="Website Tips, Tricks, and News"/>
 
-        <updated>2023-04-30T15:05:15-03:00</updated>
+        <updated>2023-05-02T11:55:24-03:00</updated>
             <summary>
                 <![CDATA[
                     Did you know that one in four small businesses in New Brunswick still don't have a website or social media presence? This means they are missing out on a huge opportunity to reach potential customers, increase their sales, and grow their brand awareness. In this&hellip;
@@ -147,7 +180,7 @@
         <id>https://blog.getlikha.com/likha-studios-gets-social-follow-us-on-facebook-and-instagram/</id>
             <category term="Likha Studios Notebook"/>
 
-        <updated>2023-04-10T14:58:17-03:00</updated>
+        <updated>2023-05-02T11:54:21-03:00</updated>
             <summary>
                 <![CDATA[
                     Hey there, fellow digital enthusiasts! We're thrilled to announce that Likha Studios, your go-to digital marketing service, is now active on Facebook and Instagram! We've been working hard behind the scenes to bring you engaging content, exciting updates, and a glimpse into our world of&hellip;
@@ -175,7 +208,7 @@
         <id>https://blog.getlikha.com/likha-studios-partnered-checon-industries-boosting-their-online-presence/</id>
             <category term="Likha Studios Notebook"/>
 
-        <updated>2023-04-10T15:07:04-03:00</updated>
+        <updated>2023-05-02T11:51:51-03:00</updated>
             <summary>
                 <![CDATA[
                     Hi there! We have some exciting news to share with you! Likha Studios, the digital marketing team from Canada, has partnered with Checon Industries, a family-owned business based in the Philippines that specializes in fire safety equipment such as fire extinguishers and fire alarms. They've&hellip;
@@ -203,7 +236,7 @@
         <media:content url="https://blog.getlikha.com/media/posts/8/AIVideoGeneration.png" medium="image" />
             <category term="AI Insights &amp; Innovations"/>
 
-        <updated>2023-04-08T14:58:31-03:00</updated>
+        <updated>2023-05-02T11:48:47-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.getlikha.com/media/posts/8/AIVideoGeneration.png" alt="AI Video Generation" />
@@ -241,7 +274,7 @@
         <media:content url="https://blog.getlikha.com/media/posts/7/TechConference.png" medium="image" />
             <category term="Tech Today"/>
 
-        <updated>2023-04-08T14:37:16-03:00</updated>
+        <updated>2023-05-02T11:47:35-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.getlikha.com/media/posts/7/TechConference.png" alt="An online tech conference" />
@@ -276,7 +309,7 @@
         <media:content url="https://blog.getlikha.com/media/posts/5/EvilAI.png" medium="image" />
             <category term="AI Insights &amp; Innovations"/>
 
-        <updated>2023-04-08T13:08:33-03:00</updated>
+        <updated>2023-05-02T11:46:42-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.getlikha.com/media/posts/5/EvilAI.png" alt="Evil AI Chatbots with double-edged sword" />
@@ -357,7 +390,7 @@
         <media:content url="https://blog.getlikha.com/media/posts/3/gQDr6syx_4x.jpg" medium="image" />
             <category term="Website Tips, Tricks, and News"/>
 
-        <updated>2023-05-01T12:12:25-03:00</updated>
+        <updated>2023-05-02T11:43:01-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.getlikha.com/media/posts/3/gQDr6syx_4x.jpg" alt="A picture of a hand holding a chalk drawing a social media icon" />
@@ -394,30 +427,6 @@
 <li><!--block-->Analyze your competitors - Analyzing your competitors' social media strategies can help you identify opportunities for improvement and stay ahead of the curve.</li>
 </ol>
 <div><!--block--><br>In conclusion, social media marketing is a powerful tool that businesses can use to increase brand awareness, engage with their customers, and drive website traffic. By creating a social media strategy and managing social media accounts effectively, businesses can leverage the power of social media to achieve their marketing objectives and grow their business. <br><br>Are you struggling to increase your brand awareness and customer engagement on social media? Look no further than Likha Studios. Our team specializes in crafting tailored social media management plans to improve your business's online visibility and credibility. With careful planning and precision, we'll boost your brand's reach and help you connect with your audience on a deeper level. Get in touch with us today to get started! </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How ChatGPT powers the web</title>
-        <author>
-            <name>Aria Inkwell</name>
-        </author>
-        <link href="https://blog.getlikha.com/how-chatgpt-powers-the-web/"/>
-        <id>https://blog.getlikha.com/how-chatgpt-powers-the-web/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/2/or9GVyeE_4x.jpg" medium="image" />
-            <category term="Website Tips, Tricks, and News"/>
-
-        <updated>2023-05-01T12:12:06-03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/2/or9GVyeE_4x.jpg" alt="A dramatic shot of a robot" />
-                    As businesses strive to remain relevant in a constantly evolving digital age, it has become imperative to adopt innovative technologies that enhance customer engagement, improve brand reputation, and ultimately drive revenue growth. One such technology that has gained widespread acceptance among businesses is ChatGPT. ChatGPT&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/2/or9GVyeE_4x.jpg" class="type:primaryImage" alt="A dramatic shot of a robot" /></p>
-                <p> <br>As businesses strive to remain relevant in a constantly evolving digital age, it has become imperative to adopt innovative technologies that enhance customer engagement, improve brand reputation, and ultimately drive revenue growth. One such technology that has gained widespread acceptance among businesses is ChatGPT.<br><br>ChatGPT is an AI-powered chatbot that utilizes natural language processing (NLP) to understand and respond to user queries in a conversational manner. By leveraging advanced machine learning algorithms, ChatGPT can analyze large volumes of data and provide accurate information and content that meets the unique needs of clients.<br><br>In today's fast-paced business environment, social media platforms have become critical channels for engaging customers and promoting products and services. With ChatGPT, businesses can provide timely and accurate responses to customer queries on social media platforms, thereby enhancing customer satisfaction and improving brand reputation. Additionally, ChatGPT can generate customized social media content based on user preferences and previous interactions with the brand.<br><br>Another way businesses can utilize ChatGPT is by integrating it with their websites. By doing so, customers can access ChatGPT-powered virtual assistants that can provide personalized assistance and support. This can range from answering common queries about product features and specifications to helping customers navigate through complex purchase processes.<br><br>Moreover, ChatGPT can also provide businesses with valuable insights into customer behavior and preferences. By analyzing user data and interaction patterns, businesses can identify common pain points and develop targeted marketing strategies that address specific customer needs. This, in turn, can help businesses enhance customer engagement and loyalty, thereby driving revenue growth.<br><br>In conclusion, ChatGPT is a valuable tool for businesses seeking to provide accurate information and content for their clients' social media and websites. By leveraging advanced AI algorithms, businesses can enhance customer engagement, improve brand reputation, and ultimately drive revenue growth. <br><br>At Likha Studios, we are committed to providing our clients with exceptional service, and we leverage the power of ChatGPT to achieve that goal. Our focus is on delivering quality outcomes that exceed expectations while also streamlining our processes for optimal efficiency. With our affordable pricing options, clients can trust that they will receive outstanding value for their investment. We are dedicated to ensuring that every project we undertake is a success and that our clients are fully satisfied with the results. </p>
             ]]>
         </content>
     </entry>
