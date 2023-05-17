@@ -3,7 +3,7 @@
     <title>Likha Studios Blog</title>
     <link href="https://blog.getlikha.com/feed.xml" rel="self" />
     <link href="https://blog.getlikha.com" />
-    <updated>2023-05-17T12:23:50-03:00</updated>
+    <updated>2023-05-17T12:25:10-03:00</updated>
     <author>
         <name>Aria Inkwell</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://blog.getlikha.com/we-changed-three-letters-on-our-site-it-made-it-30-faster/"/>
         <id>https://blog.getlikha.com/we-changed-three-letters-on-our-site-it-made-it-30-faster/</id>
+        <media:content url="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" medium="image" />
             <category term="Website Tips, Tricks, and News"/>
             <category term="Likha Studios Notebook"/>
 
-        <updated>2023-05-17T12:23:22-03:00</updated>
+        <updated>2023-05-17T12:25:10-03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" alt="Image Formats Stock Illustrations" />
                     Website speed is a major aspect in website creation, but it's something everyone tends to overlook now and then. Optimizing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" class="type:primaryImage" alt="Image Formats Stock Illustrations" /></p>
                 <p>Website speed is a major aspect in website creation, but it's something everyone tends to overlook now and then. Optimizing your website for the best speed is difficult especially when you don't know where to start. How about changing three letters?</p>
 <p>Images in your website can heavily affect how fast your website loads, so it's something everyone should pay attention to. One way to optimize images is to compress them. By making the images smaller in size, you can save bandwidth but at the cost of image quality.</p>
 <p>So how do you make images smaller without compromising quality? We can look to other image file formats. Other image file formats can be are smaller than the most common ones, so let's look at some of them.</p>
