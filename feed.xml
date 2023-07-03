@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Likha Studios Blog</title>
-    <link href="https://blog.getlikha.com/feed.xml" rel="self" />
-    <link href="https://blog.getlikha.com" />
-    <updated>2023-06-22T12:17:23-03:00</updated>
+    <link href="https://getlikha.com/blog/feed.xml" rel="self" />
+    <link href="https://getlikha.com/blog" />
+    <updated>2023-06-22T16:07:34-03:00</updated>
     <author>
         <name>Aria Inkwell</name>
     </author>
-    <id>https://blog.getlikha.com</id>
+    <id>https://getlikha.com/blog</id>
 
     <entry>
         <title>Help Website Visitors with Their Online Health: How a Notification Helps Your Visitors</title>
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/"/>
-        <id>https://blog.getlikha.com/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/</id>
+        <link href="https://getlikha.com/blog/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/"/>
+        <id>https://getlikha.com/blog/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/</id>
             <category term="Online Health"/>
 
-        <updated>2023-06-22T12:17:23-03:00</updated>
+        <updated>2023-06-22T16:07:34-03:00</updated>
             <summary>
                 <![CDATA[
                     In our increasingly online world, the devices we hold every day has become an important part of our lives. We&hellip;
@@ -47,22 +47,22 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/we-changed-three-letters-on-our-site-it-made-it-30-faster/"/>
-        <id>https://blog.getlikha.com/we-changed-three-letters-on-our-site-it-made-it-30-faster/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" medium="image" />
+        <link href="https://getlikha.com/blog/we-changed-three-letters-on-our-site-it-made-it-30-faster/"/>
+        <id>https://getlikha.com/blog/we-changed-three-letters-on-our-site-it-made-it-30-faster/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" medium="image" />
             <category term="Website Tips and Tricks"/>
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-17T21:55:51-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" alt="Image Formats Stock Illustrations" />
+                        <img src="https://getlikha.com/blog/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" alt="Image Formats Stock Illustrations" />
                     Website speed is a major aspect in website creation, but it's something everyone tends to overlook now and then. Optimizing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" class="type:primaryImage" alt="Image Formats Stock Illustrations" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/19/document-formats-vector-illustration-icon-set-included-icons-as-file-types-kind-files-more-131356727.jpg" class="type:primaryImage" alt="Image Formats Stock Illustrations" /></p>
                 <p>Website speed is a major aspect in website creation, but it's something everyone tends to overlook now and then. Optimizing your website for the best speed is difficult especially when you don't know where to start. How about changing three letters?</p>
 <p>Images in your website can heavily affect how fast your website loads, so it's something everyone should pay attention to. One way to optimize images is to compress them. By making the images smaller in size, you can save bandwidth but at the cost of image quality.</p>
 <p>So how do you make images smaller without compromising quality? We can look to other image file formats. Other image file formats can be are smaller than the most common ones, so let's look at some of them.</p>
@@ -94,22 +94,22 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/how-six-letters-changed-the-way-our-site-worked/"/>
-        <id>https://blog.getlikha.com/how-six-letters-changed-the-way-our-site-worked/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/18/6.webp" medium="image" />
+        <link href="https://getlikha.com/blog/how-six-letters-changed-the-way-our-site-worked/"/>
+        <id>https://getlikha.com/blog/how-six-letters-changed-the-way-our-site-worked/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/18/6.webp" medium="image" />
             <category term="Website Tips and Tricks"/>
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-16T14:11:18-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/18/6.webp" alt="6" />
+                        <img src="https://getlikha.com/blog/media/posts/18/6.webp" alt="6" />
                     Ever wonder how websites today can be viewed on our phones? Mobile responsiveness has been a highlighted feature DIY website&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/18/6.webp" class="type:primaryImage" alt="6" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/18/6.webp" class="type:primaryImage" alt="6" /></p>
                 <p>Ever wonder how websites today can be viewed on our phones? Mobile responsiveness has been a highlighted feature DIY website builders promote, with DIY website builders such as Nicepage, Mobirise and more. While DIY website builders are great, they can't provide full control over the website building process, you can't edit the code behind your site.</p>
 <p>While developing our site, we found six letters that changed the way we could handle mobile responsiveness. A problem while making websites mobile responsiveness is how the site handles text.</p>
 <p>The way text is viewed depends on the width and height of the screen. When the screen is too small to fit the entire text in one line, it breaks and views the text in another line, typically below.</p>
@@ -131,21 +131,21 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/get-15-off-with-nurecover-likha-studios-partnership/"/>
-        <id>https://blog.getlikha.com/get-15-off-with-nurecover-likha-studios-partnership/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/17/Main_Logo.webp" medium="image" />
+        <link href="https://getlikha.com/blog/get-15-off-with-nurecover-likha-studios-partnership/"/>
+        <id>https://getlikha.com/blog/get-15-off-with-nurecover-likha-studios-partnership/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/17/Main_Logo.webp" medium="image" />
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-26T10:19:06-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/17/Main_Logo.webp" alt="NuRecover Logo" />
+                        <img src="https://getlikha.com/blog/media/posts/17/Main_Logo.webp" alt="NuRecover Logo" />
                     Update: As of the time of writing, our partnership discount with NuRecover has increased from 15% to 20%. Claim this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/17/Main_Logo.webp" class="type:primaryImage" alt="NuRecover Logo" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/17/Main_Logo.webp" class="type:primaryImage" alt="NuRecover Logo" /></p>
                 <blockquote>
 <p>Update: As of the time of writing, our partnership discount with NuRecover has increased from 15% to 20%. Claim this limited offer now!</p>
 </blockquote>
@@ -166,25 +166,25 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/how-a-period-made-our-site-better/"/>
-        <id>https://blog.getlikha.com/how-a-period-made-our-site-better/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/16/Likha-Studios-Homepage.png" medium="image" />
+        <link href="https://getlikha.com/blog/how-a-period-made-our-site-better/"/>
+        <id>https://getlikha.com/blog/how-a-period-made-our-site-better/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/16/Likha-Studios-Homepage.png" medium="image" />
             <category term="Website Tips and Tricks"/>
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-16T14:11:26-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/16/Likha-Studios-Homepage.png" alt="Likha Studios Homepage" />
+                        <img src="https://getlikha.com/blog/media/posts/16/Likha-Studios-Homepage.png" alt="Likha Studios Homepage" />
                     When creating a website, the little things tend to matter the most. From the background of your website to contrasting&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/16/Likha-Studios-Homepage.png" class="type:primaryImage" alt="Likha Studios Homepage" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/16/Likha-Studios-Homepage.png" class="type:primaryImage" alt="Likha Studios Homepage" /></p>
                 <p>When creating a website, the little things tend to matter the most. From the background of your website to contrasting colours to help viewers see your text more, every detail has to be tended to.</p>
 <p>While Likha Studios was revamping their website for their launch, we've gone over something very important. A period. You heard me right, a period.</p>
-<figure class="post__image"><img loading="lazy"  src="https://blog.getlikha.com/media/posts/16/Likha-Studios-Homepage-2.png" alt="A picture of the first block on our homepage." width="958" height="553" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.getlikha.com/media/posts/16/responsive/Likha-Studios-Homepage-2-xs.webp 300w ,https://blog.getlikha.com/media/posts/16/responsive/Likha-Studios-Homepage-2-sm.webp 480w ,https://blog.getlikha.com/media/posts/16/responsive/Likha-Studios-Homepage-2-md.webp 768w"><figcaption>A picture of the first block on our homepage.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://getlikha.com/blog/media/posts/16/Likha-Studios-Homepage-2.png" alt="A picture of the first block on our homepage." width="958" height="553" sizes="(max-width: 48em) 100vw, 768px" srcset="https://getlikha.com/blog/media/posts/16/responsive/Likha-Studios-Homepage-2-xs.webp 300w ,https://getlikha.com/blog/media/posts/16/responsive/Likha-Studios-Homepage-2-sm.webp 480w ,https://getlikha.com/blog/media/posts/16/responsive/Likha-Studios-Homepage-2-md.webp 768w"><figcaption>A picture of the first block on our homepage.</figcaption></figure>
 <p><em>Likha, Your Digital Buddy</em> took a lot of brainstorming to craft the perfect hook that'll drive audiences to potential clients. We've put a lot of thought into the process, just like with every one of our clients' work.</p>
 <p>We've gone through multiple variations and versions to what feels best. Looking over countless studies on what the most popular websites do for their first block, we've put in the effort to make sure our site is the best. Instead of a period after <em>Likha</em>, a comma would be the best fit for our first header. It may seem like a small detail, but believe me, it makes a world of difference. You see, a comma creates a sense of continuity, keeping the reader engaged and eager to explore further. It's like a gentle pause, inviting them to take a breath before diving deeper into the captivating content that lies ahead. With our eyes fixed on the data, we've noticed that websites utilizing a comma in their headers tend to experience higher click-through rates and longer user engagement. So, why settle for a period when we can embrace the power of a comma to make our first impression truly unforgettable?</p>
 <p>Another variation was <em>Likha, Your Digital Partner</em>. While partner gave a sense of professionalism, our focus is to help <strong>everyone</strong> create and develop their brand online. Partner felt too professional and would only appeal to business.</p>
@@ -197,21 +197,21 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/our-blog-has-better-seo-than-our-actual-site-and-heres-why/"/>
-        <id>https://blog.getlikha.com/our-blog-has-better-seo-than-our-actual-site-and-heres-why/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/14/seo1.webp" medium="image" />
+        <link href="https://getlikha.com/blog/our-blog-has-better-seo-than-our-actual-site-and-heres-why/"/>
+        <id>https://getlikha.com/blog/our-blog-has-better-seo-than-our-actual-site-and-heres-why/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/14/seo1.webp" medium="image" />
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-16T06:47:43-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/14/seo1.webp" alt="SEO" />
+                        <img src="https://getlikha.com/blog/media/posts/14/seo1.webp" alt="SEO" />
                     Search Engine Optimization or SEO, is a very important aspect when it comes to website. SEO's allows sites to gain&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/14/seo1.webp" class="type:primaryImage" alt="SEO" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/14/seo1.webp" class="type:primaryImage" alt="SEO" /></p>
                 <p>Search Engine Optimization or SEO, is a very important aspect when it comes to website. SEO's allows sites to gain more visibility and convert viewers to potential customers. It's a great way to be known in today's digital world.</p>
 <p>While helping optimize Likha Studios' websites, both their main page and blog page, I've noticed something intriguing. Likha Studios' Blog has more visibility than their main site.</p>
 <p>I sat their and wondered why that is, and started digging through. What I found is a great insight you can use too.</p>
@@ -233,21 +233,21 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/what-is-seo-and-how-do-you-use-it/"/>
-        <id>https://blog.getlikha.com/what-is-seo-and-how-do-you-use-it/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/13/SEO.png" medium="image" />
+        <link href="https://getlikha.com/blog/what-is-seo-and-how-do-you-use-it/"/>
+        <id>https://getlikha.com/blog/what-is-seo-and-how-do-you-use-it/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/13/SEO.png" medium="image" />
             <category term="Website Tips and Tricks"/>
 
         <updated>2023-05-07T17:16:59-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/13/SEO.png" alt="" />
+                        <img src="https://getlikha.com/blog/media/posts/13/SEO.png" alt="" />
                     SEO stands for Search Engine Optimization, which is the process of improving the quality and quantity of traffic to your&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/13/SEO.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/13/SEO.png" class="type:primaryImage" alt="" /></p>
                 <p>SEO stands for Search Engine Optimization, which is the process of improving the quality and quantity of traffic to your website from search engines. SEO helps your website rank higher on search engine results pages (SERPs), especially on Google, which is the most popular and widely used search engine in the world.<br><br>Why is SEO important for your website? SEO can help you reach your target audience, increase your brand awareness, generate more leads and conversions, and ultimately grow your business. SEO can also help you gain a competitive edge over your rivals, as well as build trust and credibility with your potential customers.<br><br>How can you apply SEO to your website? SEO is not a one-time thing, but an ongoing process that requires constant monitoring and updating. However, there are some basic steps that you can follow to start optimizing your website for search engines. Here are some of them:<br><br>1. Conduct keyword research. Keywords are the words and phrases that users type into search engines to find what they are looking for. You need to identify the keywords that are relevant to your website's topic, niche, and audience, and use them strategically throughout your website's content, title tags, meta descriptions, headings, URLs, and images. You can use tools like Google Keyword Planner, Moz Keyword Explorer, or SEMrush to find and analyze keywords for your website.<br><br>2. Optimize your website's structure and navigation. Your website's structure and navigation should be clear, logical, and user-friendly, so that both search engines and users can easily find and access your pages. You should use a hierarchical structure with categories and subcategories, and create a sitemap that lists all your pages and links them together. You should also use internal links to connect related pages within your website, and external links to point to authoritative and relevant sources outside your website.<br><br>3. Improve your website's speed and performance. Your website's speed and performance can affect your SEO ranking, as well as your user experience and satisfaction. You should make sure that your website loads fast and smoothly on all devices and browsers, and that it does not have any broken links, errors, or bugs. You can use tools like Google PageSpeed Insights, GTmetrix, or Pingdom to test and improve your website's speed and performance.<br><br>4. Create high-quality and engaging content. Content is the king of SEO, as it is what attracts and retains users on your website. You should create high-quality and engaging content that provides value to your audience, answers their questions, solves their problems, or entertains them. You should also update your content regularly to keep it fresh and relevant. You can use different types of content formats, such as blog posts, articles, videos, podcasts, infographics, ebooks, or webinars, depending on your goals and audience preferences.<br><br>5. Implement on-page and off-page SEO techniques. On-page SEO refers to the optimization of the elements on your website's pages, such as keywords, content, title tags, meta descriptions, headings, images, etc. Off-page SEO refers to the optimization of the elements outside your website's pages, such as backlinks, social media signals, reviews, etc. Both on-page and off-page SEO techniques can help you boost your website's authority and relevance in the eyes of search engines and users.<br><br>These are some of the basic steps that you can follow to apply SEO to your website. However, SEO is a complex and dynamic field that requires constant learning and adaptation. You should always keep up with the latest trends and best practices in SEO, as well as monitor your website's performance and results using tools like Google Analytics or Google Search Console.</p>
             ]]>
         </content>
@@ -257,21 +257,21 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/why-do-you-need-to-use-seos/"/>
-        <id>https://blog.getlikha.com/why-do-you-need-to-use-seos/</id>
-        <media:content url="https://blog.getlikha.com/media/posts/12/seo2.webp" medium="image" />
+        <link href="https://getlikha.com/blog/why-do-you-need-to-use-seos/"/>
+        <id>https://getlikha.com/blog/why-do-you-need-to-use-seos/</id>
+        <media:content url="https://getlikha.com/blog/media/posts/12/seo2.webp" medium="image" />
             <category term="Website Tips and Tricks"/>
 
         <updated>2023-06-18T12:57:03-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.getlikha.com/media/posts/12/seo2.webp" alt="SEO" />
+                        <img src="https://getlikha.com/blog/media/posts/12/seo2.webp" alt="SEO" />
                     Search engine optimization (SEO) is the process of improving the visibility and relevance of a website or a web page&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.getlikha.com/media/posts/12/seo2.webp" class="type:primaryImage" alt="SEO" /></p>
+                    <p><img src="https://getlikha.com/blog/media/posts/12/seo2.webp" class="type:primaryImage" alt="SEO" /></p>
                 <p>Search engine optimization (SEO) is the process of improving the visibility and relevance of a website or a web page in the organic results of a search engine. SEO helps you reach your target audience, drive more traffic to your site, and increase your conversions.<br><br>But why do you need to use SEO? The answer is simple: because there are billions of websites on the internet, and most of them are not indexed by search engines.<br><br>According to Statista, there were about 1.9 billion websites worldwide as of January 2023, but only about 10% of them were indexed by search engines. That means that 90% of the websites were invisible to most online users.<br><br>How many sites are indexed per search engine? The numbers vary depending on the source and the methodology, but here are some estimates:</p>
 <p>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -313,8 +313,8 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/"/>
-        <id>https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/</id>
+        <link href="https://getlikha.com/blog/why-your-small-business-needs-a-website-and-social-media-presence/"/>
+        <id>https://getlikha.com/blog/why-your-small-business-needs-a-website-and-social-media-presence/</id>
             <category term="Website Tips and Tricks"/>
 
         <updated>2023-05-02T11:55:24-03:00</updated>
@@ -365,8 +365,8 @@
         <author>
             <name>Aria Inkwell</name>
         </author>
-        <link href="https://blog.getlikha.com/likha-studios-gets-social-follow-us-on-facebook-and-instagram/"/>
-        <id>https://blog.getlikha.com/likha-studios-gets-social-follow-us-on-facebook-and-instagram/</id>
+        <link href="https://getlikha.com/blog/likha-studios-gets-social-follow-us-on-facebook-and-instagram/"/>
+        <id>https://getlikha.com/blog/likha-studios-gets-social-follow-us-on-facebook-and-instagram/</id>
             <category term="Likha Studios Notebook"/>
 
         <updated>2023-05-02T11:54:21-03:00</updated>
