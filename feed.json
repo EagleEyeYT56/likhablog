@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://blog.getlikha.com/the-fastest-website-agency-and-heres-why/",
+            "url": "https://blog.getlikha.com/the-fastest-website-agency-and-heres-why/",
+            "title": "We&#x27;re the Fastest Website Agency, and Here&#x27;s Why",
+            "summary": "In today's fast-paced digital world, a quick and responsive website is essential for success. At Likha Studios, while we may&hellip;",
+            "content_html": "<p>In today's fast-paced digital world, a quick and responsive website is essential for success. At Likha Studios, while we may not be <em>proven</em> to be the fastest, we pride ourselves with the ability to <strong>become</strong> the fastest website agency in the industry. By harnessing the fastest technologies readily available on the web, we have built a smooth website development process.</p>\n<p>HTML5, the latest version of the Hypertext Markup Language, plays a crucial role in our speedy process. With HTML5, we utilize streamlined code structures and enhanced functionalities to optimize website performance. By adhering to HTML5 standards, we ensure compatibility across different browsers and devices, leading to faster loading time and a seamless user experience. We also avoid spending time white-labelling our code, sacrificing visibility for faster development times and better customer experience.</p>\n<p>CSS3, the latest evolution of Cascading Style Sheets, allows us to create visually appealing websites without compromising speed. With CSS3, we implement advanced techniques such as responsive design, simple animations, enhancing both aesthetics and performance. By leveraging CSS3's capabilities, we strike the perfect balance between eye-catching design and lightning-fast loading times, attracting users from the moment they land on websites designed by us.</p>\n<p>Collaboration is key to an efficient website development process, and that's where GitHub comes in. With GitHub's version control system, our team can seamlessly collaborate on projects, ensuring a streamlined workflow and minimizing errors. By using GitHub's features such as branches, pull requests and code reviews, we optimize our development process, ensuring faster turnaround times without compromising quality. Through GitHub, we also ensure transparency. GitHub allows anyone to view code in repositories, so you know exactly what's in your website.</p>\n<p>JavaScript (JS) is the backbone of interactive and dynamic website elements, and we leverage its power to provide enhanced user experiences (UX). By utilizing JS libraries and frameworks, we implement features such as smooth scrolling, widgets and more all while maintaining exceptional performance. </p>\n<p>We understand the importance of website speed, which is why we utilize Cloudflare and JsDelivr to supercharge performance. Cloudflare's global content delivery network (CDN) ensures that website assets are served from the nearest server location, reductinglatency and improving load times. JsDelivr, a free and open-source CDN, further enhances performance by delivering JavaScript and CSS files at lightning-fast speeds, leveraging a distributed network of servers worldwide.</p>\n<p>Likha Studios is committed to providing the fastest website development services in the industry. By using HTML5, CSS3, GitHub, JS, Cloudflare and JsDelivr, we optimize performance without compromising on design and functionality. Partner with us to unlock the true potential of your website, delivering an exceptional user experience that leaves your competitors in the dust. Connect with us now and see what you're missing out on.</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Aria Inkwell"
+            },
+            "tags": [
+                   "Likha Studios Notebook"
+            ],
+            "date_published": "2023-07-04T13:33:00-03:00",
+            "date_modified": "2023-07-04T13:39:46-03:00"
+        },
+        {
             "id": "https://blog.getlikha.com/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/",
             "url": "https://blog.getlikha.com/help-website-visitors-with-their-online-health-how-a-notification-helps-your-visitors/",
             "title": "Help Website Visitors with Their Online Health: How a Notification Helps Your Visitors",
@@ -154,21 +169,6 @@
             ],
             "date_published": "2023-04-30T15:04:25-03:00",
             "date_modified": "2023-05-02T11:55:24-03:00"
-        },
-        {
-            "id": "https://blog.getlikha.com/likha-studios-gets-social-follow-us-on-facebook-and-instagram/",
-            "url": "https://blog.getlikha.com/likha-studios-gets-social-follow-us-on-facebook-and-instagram/",
-            "title": "Likha Studios Gets Social! Follow Us on Facebook and Instagram",
-            "summary": "Hey there, fellow digital enthusiasts! We're thrilled to announce that Likha Studios, your go-to digital marketing service, is now active&hellip;",
-            "content_html": "<p>Hey there, fellow digital enthusiasts!</p>\n<p>We're thrilled to announce that Likha Studios, your go-to digital marketing service, is now active on Facebook and Instagram! We've been working hard behind the scenes to bring you engaging content, exciting updates, and a glimpse into our world of creative digital marketing.</p>\n<p>Be sure to check out our Facebook page: <a href=\"https://www.facebook.com/profile.php?id=100091763556356\" target=\"_blank\" rel=\"noopener noreferrer\">Click Me!</a> and hit that \"Like\" button to stay connected with us. We'll be sharing industry insights, expert tips, and updates on our latest projects.</p>\n<p>If you're more of an Instagram fan, you can follow us: <a href=\"https://instagram.com/getlikha\" target=\"_blank\" rel=\"noopener noreferrer\">Click Me!</a> for a visual feast of our creative endeavours. We'll be sharing eye-catching visuals, behind-the-scenes peeks, and interactive stories that you won't want to miss.</p>\n<p>Our goal is to connect with our community, share our passion for all things digital, and provide valuable insights to help your business thrive online. We're excited to have you on this journey with us!</p>\n<p>Don't forget to hit that \"Follow\" button on Facebook and Instagram, and feel free to drop us a message or comment to let us know your thoughts, questions, or suggestions. We love hearing from you!</p>\n<p>Stay tuned for some exciting updates, promotions, and exclusive content on our social media pages. Thank you for your support, and we look forward to engaging with you on Facebook and Instagram!</p>\n<p>Best,<br>Likha Studios</p>",
-            "author": {
-                "name": "Aria Inkwell"
-            },
-            "tags": [
-                   "Likha Studios Notebook"
-            ],
-            "date_published": "2023-04-10T14:58:17-03:00",
-            "date_modified": "2023-05-02T11:54:21-03:00"
         }
     ]
 }
