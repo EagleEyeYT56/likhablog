@@ -3,12 +3,54 @@
     <title>Likha Studios Blog</title>
     <link href="https://blog.getlikha.com/feed.xml" rel="self" />
     <link href="https://blog.getlikha.com" />
-    <updated>2023-07-04T13:39:46-03:00</updated>
+    <updated>2023-07-04T14:04:22-03:00</updated>
     <author>
         <name>Aria Inkwell</name>
     </author>
     <id>https://blog.getlikha.com</id>
 
+    <entry>
+        <title>The Purpose of [at] and [dot] in Email Addresses on Websites</title>
+        <author>
+            <name>Aria Inkwell</name>
+        </author>
+        <link href="https://blog.getlikha.com/the-purpose-of-at-and-dot-in-email-addresses-on-websites/"/>
+        <id>https://blog.getlikha.com/the-purpose-of-at-and-dot-in-email-addresses-on-websites/</id>
+            <category term="Website Tips and Tricks"/>
+
+        <updated>2023-07-04T14:04:22-03:00</updated>
+            <summary>
+                <![CDATA[
+                    When adding an email address on websites, you may have noticed that the "@" symbol is often replaced with the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When adding an email address on websites, you may have noticed that the "@" symbol is often replaced with the term "[at]," and the "." symbol is replaced with "[dot]." This practice has become common to mitigate email scraping and spam-related issues. In this article, we will explore the reasons behind the usage of [at] and [dot] and understand how they contribute to maintaining online privacy and security.</p>
+<ol>
+<li>Protection against email harvesting:</li>
+</ol>
+<p>One of the main reasons for replacing the "@" symbol with [at] is to prevent email harvesting. Email harvesting refers to the automated collection of email addresses from websites by malicious entities, often with the intention of spamming or selling the collected addresses. By replacing the "@" symbol with [at], it becomes more difficult for automated bots to recognize and collect email addresses.</p>
+<ol start="2">
+<li>Obfuscation of email addresses:</li>
+</ol>
+<p>The use of [dot] instead of the "." symbol helps obfuscate email addresses. Similar to the purpose of [at], replacing the "." symbol makes it harder for automated bots to identify and extract email addresses from websites. This technique adds an extra layer of protection against email scraping, as automated bots typically search for specific patterns such as "<a href="mailto:name@domain.com" target="_new">name@domain.com</a>."</p>
+<ol start="3">
+<li>Human-readable interpretation:</li>
+</ol>
+<p>The practice of using [at] and [dot] also serves as a visual cue to website visitors, making it easier for them to interpret and manually enter the correct email address. By using these terms, website owners can clearly convey the intended format without relying on graphical representations or exposing the email address directly.</p>
+<ol start="4">
+<li>Accessibility for screen readers:</li>
+</ol>
+<p>Including [at] and [dot] in email addresses can enhance accessibility for users who rely on screen readers or assistive technologies. Screen readers often interpret the "@" and "." symbols in email addresses as commands or formatting elements. By replacing these symbols with words, individuals with visual impairments can better understand and input the email address.</p>
+<ol start="5">
+<li>Adherence to web standards and best practices:</li>
+</ol>
+<p>While there are no strict guidelines or standards that dictate the use of [at] and [dot] in email addresses, it has become a commonly accepted practice over time. By following this convention, website owners can demonstrate their commitment to user privacy, security, and accessibility. Additionally, it aligns with the principles of good web design and user experience.</p>
+<p>The usage of [at] and [dot] when adding email addresses on websites offers several benefits. It protects against email harvesting and spam, obfuscates email addresses from automated bots, enhances human readability, improves accessibility for individuals using screen readers, and aligns with web design best practices. While it may not provide fool proof protection against all forms of email abuse, this practice contributes to a safer and more user-friendly online environment.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>We&#x27;re the Fastest Website Agency, and Here&#x27;s Why</title>
         <author>
@@ -334,58 +376,6 @@
 <div id="piechart_3d" style="width: 900px; height: 500px;"></div>
 <p><br><br>- Google: about 130 billion pages indexed as of January 2023<br>- Bing: about 35 billion pages indexed as of January 2023<br>- Yahoo: about 25 billion pages indexed as of January 2023<br>- Yandex: about 15 billion pages indexed as of January 2023<br>- Other Search Engines: about 5 billion pages index as of January 2021<br><br>As you can see, Google has the largest index of web pages, followed by Bing, Yahoo, and Yandex. However, even Google does not index every page on the internet. Some pages are excluded because they are duplicate, low-quality, spammy, or blocked by robots.txt or meta tags.<br><br>Therefore, if you want your website or web page to be found by online users, you need to use SEO techniques to make sure that your site is crawlable, indexable, and relevant for your keywords and topics. SEO helps you stand out from the crowd and get more exposure for your brand and content.</p>
 <p>At Likha Studios, we recognize the importance of Search Engine Optimization (SEO) for our clients' websites. SEO is a process of optimizing a website's content and structure to increase its visibility and ranking in search engine results pages (SERPs). By improving our clients' SEO, we help increase the likelihood of their websites being found by potential customers who are searching for relevant products or services.<br><br>Our team works closely with our clients to analyse their target audience and develop strategies to improve their website's SEO. We conduct keyword research to identify the most relevant and high-traffic keywords for their business, and then incorporate these keywords into their website's content and meta tags. We also optimize the website's structure and navigation to ensure that it is user-friendly and search engine-friendly.<br><br>In addition to on-page SEO, we also focus on off-page SEO, which includes link building, social media marketing, and online directory listings. By creating high-quality backlinks from reputable websites and leveraging social media platforms to promote our clients' websites, we help improve their website's authority and credibility in the eyes of search engines.<br><br>We understand that SEO is an ongoing process, and we continuously monitor and analyze our clients' website's performance to identify areas for improvement. By regularly updating their website's content and adapting to changes in search engine algorithms, we help our clients stay ahead of their competition and achieve long-term success in their online marketing efforts.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Why Your Small Business Needs a Website and Social Media Presence</title>
-        <author>
-            <name>Aria Inkwell</name>
-        </author>
-        <link href="https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/"/>
-        <id>https://blog.getlikha.com/why-your-small-business-needs-a-website-and-social-media-presence/</id>
-            <category term="Website Tips and Tricks"/>
-
-        <updated>2023-05-02T11:55:24-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Did you know that one in four small businesses in New Brunswick still don't have a website or social media&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Did you know that one in four small businesses in New Brunswick still don't have a website or social media presence? This means they are missing out on a huge opportunity to reach potential customers, increase their sales, and grow their brand awareness. In this blog post, we will show you some statistics and benefits of having a website and social media for your business, and how you can get started with Likha Studios.</p>
-<p> </p>
-<p>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-		google.charts.load("current", {
-			packages: ["corechart"]
-		});
-		google.charts.setOnLoadCallback(drawChart);
-
-		function drawChart() {
-			var data = google.visualization.arrayToDataTable([
-				['Businesses', 'Percentage'],
-				['Strong Digital Presence', 77],
-				['Good Website and Social Media Presence', 7],
-				['Social Media Only', 10],
-				['Website that could be improved', 5],
-				['Website Only', 1]
-			]);
-
-			var options = {
-				title: 'Digital Presence Statistics',
-				is3D: true,
-			};
-
-			var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
-			chart.draw(data, options);
-		}
-	</script>
-</p>
-<div id="piechart_3d" style="width: 900px; height: 500px;"></div>
-<p><br>According to a survey by Digital.com, 23% of small businesses with bricks and mortar stores said they don't have a website. The most common reasons for not having a website were that they never needed one, that their customers don't go online, or that they rely on social media for their online needs. However, these excuses are not valid in the 21st century, where e-commerce has been increasing year-over-year for decades. Online shopping is more convenient than in-store shopping, and people are accustomed to researching businesses and services on the internet. Without a website, you are losing out on a large segment of the market that may never find you or trust you.<br><br>Similarly, social media is not enough to build a sustainable brand online. While social media can help you connect with your existing customers and reach new ones, it is not a substitute for having your own website. Social media platforms are constantly changing their algorithms, policies, and features, which means you have little control over how your content is displayed and who sees it. Moreover, social media does not work as a powerful tool for generating traffic to your website. In fact, according to Content Powered, only 6% of the traffic that businesses receive comes from social media. On the other hand, Google searches account for about 49% of the traffic. This means that having a website with quality content that ranks well on search engines is the best way to get more exposure and leads for your business.<br><br>So, what are the benefits of having a website and social media for your business? Here are some of them:<br><br>- You can showcase your products or services in a professional and attractive way, with photos, videos, testimonials, and more.<br>- You can provide useful information to your customers, such as your location, hours, contact details, FAQs, etc.<br>- You can build trust and credibility with your customers by displaying your credentials, awards, reviews, etc.<br>- You can increase your sales by offering online ordering, booking, payment, etc.<br>- You can collect customer data and feedback through forms, surveys, newsletters, etc.<br>- You can create a loyal fan base by engaging with your customers through blogs, comments, social media posts, etc.<br>- You can expand your reach by attracting new customers from different locations, demographics, interests, etc.<br>- You can stand out from your competitors by having a unique and memorable online identity.<br><br>As you can see, having a website and social media for your business is not optional anymore. It is essential for your success and growth. However, we understand that creating and managing a website and social media can be challenging and time-consuming for busy entrepreneurs. That's why we recommend Likha Studios as the best solution for your online needs.<br><br><br></p>
             ]]>
         </content>
     </entry>
